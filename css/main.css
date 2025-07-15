@@ -90,3 +90,30 @@ main {
     color: white;
     font-size: 13px;
 }
+.lista {
+    padding-bottom: 10px;
+}
+.q1 {
+    background-color: #9A72E8;
+    border-radius: 10px;
+    padding: 4px;
+    color: white;
+    font-size: 13px;
+    
+}
+.racruiting {
+    background-color: #60C1AC;
+    border-radius: 10px;
+    padding: 4px;
+    color: white;
+    font-size: 13px;
+    
+}
+.mobile {
+    background-color: #FC9D2B ;
+    border-radius: 10px;
+    padding: 4px;
+    color: white;
+    font-size: 13px;
+
+}
