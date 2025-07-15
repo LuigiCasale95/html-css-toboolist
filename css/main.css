@@ -10,17 +10,18 @@ body {
 header {
     margin: 0;
 }
-
+/*Logo/testata pagina*/
 #logo {
     width: 55px;
     height: 55px;
     vertical-align: middle;
     margin-left: 15px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     }
 
 #intestazione {
     background-color: white;
+    margin-bottom: 30px;
 
 }
     
@@ -29,4 +30,31 @@ h1 {
     display: inline-block;
     font-size: 50px;
     padding-top: 5px;
+}
+/*Parte centrale*/
+main {
+    max-width: 750px;
+    margin: 0 auto;
+
+}
+#riquadro-bottoni {
+    border: 5px solid white;
+    background-color: white;
+    border-radius: 5px 5px 0px 0px;
+    padding: 8px;
+}
+.task-button {
+    background-color: #439FE2;
+    border: 1px solid #439FE2;
+    padding: 5px;
+    border-radius: 6px;
+    color: white;
+}
+.add-button {
+    background-color: white;
+    border: 1px solid #777878;
+    padding: 5px;
+    border-radius: 6px;
+    color: #777878;
+    
 }
