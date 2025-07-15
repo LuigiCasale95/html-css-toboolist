@@ -4,3 +4,29 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+    background-color: #c8d6f3;
+}
+header {
+    margin: 0;
+}
+
+#logo {
+    width: 55px;
+    height: 55px;
+    vertical-align: middle;
+    margin-left: 15px;
+    margin-bottom: 5px;
+    }
+
+#intestazione {
+    background-color: white;
+
+}
+    
+
+h1 {
+    display: inline-block;
+    font-size: 50px;
+    padding-top: 5px;
+}
