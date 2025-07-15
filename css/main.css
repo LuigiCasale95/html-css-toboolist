@@ -139,3 +139,8 @@ main {
     font-size: 13px;
 
 }
+.spazio {
+    display: inline-block;
+    padding-bottom: 12px;
+    font-size: 15px;
+}
