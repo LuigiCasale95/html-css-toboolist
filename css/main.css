@@ -65,5 +65,28 @@ main {
     background-color: white;
     border-radius: 0px 0px 5px 5px;
     padding: 8px;
+}
+.spazio-lista {
+    margin-bottom: 30px;
+}
+.check {
+    border: 1px solid green;
+    color: green;
+    border-radius: 50%;
+    padding: 1px;
+    
+}
+.cross {
+    border: 1px solid red;
+    color: red;
+    border-radius: 50%;
+    padding: 1px;
 
+}
+.editorial {
+    background-color: #439FE2;
+    border-radius: 10px;
+    padding: 4px;
+    color: white;
+    font-size: 13px;
 }
