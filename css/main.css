@@ -58,6 +58,7 @@ main {
     color: #777878;
     
 }
+
 /*Parte centrale liste*/
 #riquadro-liste {
     margin-top: 5px;
@@ -66,9 +67,11 @@ main {
     border-radius: 0px 0px 5px 5px;
     padding: 8px;
 }
+
 .spazio-lista {
     margin-bottom: 30px;
 }
+
 .check {
     border: 1px solid green;
     color: green;
@@ -76,13 +79,14 @@ main {
     padding: 1px;
     
 }
+
 .cross {
     border: 1px solid red;
     color: red;
     border-radius: 50%;
     padding: 1px;
-
 }
+
 .editorial {
     background-color: #439FE2;
     border-radius: 10px;
@@ -90,9 +94,7 @@ main {
     color: white;
     font-size: 13px;
 }
-.lista {
-    padding-bottom: 10px;
-}
+
 .q1 {
     background-color: #9A72E8;
     border-radius: 10px;
@@ -101,6 +103,7 @@ main {
     font-size: 13px;
     
 }
+
 .racruiting {
     background-color: #60C1AC;
     border-radius: 10px;
@@ -109,6 +112,7 @@ main {
     font-size: 13px;
     
 }
+
 .mobile {
     background-color: #FC9D2B ;
     border-radius: 10px;
@@ -117,6 +121,7 @@ main {
     font-size: 13px;
     
 }
+
 .webside {
     background-color: #D764A2 ;
     border-radius: 10px;
@@ -125,6 +130,7 @@ main {
     font-size: 13px;
     
 }
+
 .sales {
     background-color: #B1CA27 ;
     border-radius: 10px;
