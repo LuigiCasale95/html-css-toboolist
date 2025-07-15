@@ -31,7 +31,7 @@ h1 {
     font-size: 50px;
     padding-top: 5px;
 }
-/*Parte centrale*/
+/*Parte centrale bottoni*/
 main {
     max-width: 750px;
     margin: 0 auto;
@@ -57,4 +57,13 @@ main {
     border-radius: 6px;
     color: #777878;
     
+}
+/*Parte centrale liste*/
+#riquadro-liste {
+    margin-top: 5px;
+    border: 5px solid white;
+    background-color: white;
+    border-radius: 0px 0px 5px 5px;
+    padding: 8px;
+
 }
