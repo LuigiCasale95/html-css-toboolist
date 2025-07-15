@@ -115,5 +115,21 @@ main {
     padding: 4px;
     color: white;
     font-size: 13px;
+    
+}
+.webside {
+    background-color: #D764A2 ;
+    border-radius: 10px;
+    padding: 4px;
+    color: white;
+    font-size: 13px;
+    
+}
+.sales {
+    background-color: #B1CA27 ;
+    border-radius: 10px;
+    padding: 4px;
+    color: white;
+    font-size: 13px;
 
 }
