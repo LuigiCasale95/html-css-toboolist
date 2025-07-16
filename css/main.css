@@ -77,6 +77,8 @@ main {
     color: green;
     border-radius: 50%;
     padding: 1px;
+    font-size: 13px;
+    margin-right: 4px;
     
 }
 
@@ -85,6 +87,8 @@ main {
     color: red;
     border-radius: 50%;
     padding: 1px;
+    font-size: 13px;
+    margin-right: 4px;
 }
 
 .editorial {
