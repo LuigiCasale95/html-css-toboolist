@@ -143,4 +143,6 @@ main {
     display: inline-block;
     padding-bottom: 12px;
     font-size: 15px;
+    padding-left: 6px;
+    font-size: 19px;
 }
